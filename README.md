@@ -1,7 +1,8 @@
 # Random-Story-Project
 /*This project takes you through an exciting story filled with Pokemon, zombies, and weird logic! 
  *Time to go on an adventure!
- *Improvements to Consider: make code easier to navigate, create constants instead of magic numbers, come up with    *more random outcomes
+ *Improvements to Consider: make code easier to navigate, create constants instead of magic numbers, come up with 
+ *random outcomes
  */
 package story.project;
 
@@ -9,6 +10,12 @@ package story.project;
  *
  * @author bigmak712
  */
+
+/* NOTE: This project was created during the summer before I went off to college so please excuse the extreme lack
+ * of commenting (I didn't know any better!!!) and the very confusing format. I just wanted to do see what I could do 
+ * with the knowledge that I gained from my high school computer science class.
+ */
+
 import java.util.Scanner;
 public class StoryProject {
 
